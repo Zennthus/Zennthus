@@ -82,7 +82,7 @@ Estou constantemente buscando aprimorar meus conhecimentos técnicos, desenvolve
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zennthus&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ Estou constantemente buscando aprimorar meus conhecimentos técnicos, desenvolve
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zennthus&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
