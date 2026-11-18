@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 Nathan Souza Gusso
 
-<!--
-**Zennthus/Zennthus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Engenharia de Software | Tecnologia da Informação
 
-Here are some ideas to get you started:
+Olá! Sou estudante de Engenharia de Software, apaixonado por tecnologia, desenvolvimento e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco constantemente aprimorar meus conhecimentos técnicos, desenvolver projetos e construir minha carreira na área de tecnologia.
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software.
+- 💻 Conhecimentos em montagem e manutenção de computadores.
+- 🔧 Experiência prática com instalação e configuração de sistemas operacionais.
+- 🛠️ Conhecimentos em hardware, drivers, BIOS e troubleshooting.
+- 📚 Em constante aprendizado sobre desenvolvimento de software.
+
+### 🧰 Conhecimentos técnicos
+
+- Manutenção e montagem de computadores
+- Windows e sistemas operacionais
+- Instalação e configuração de drivers
+- Diagnóstico e resolução de problemas
+- Configuração de BIOS
+- Hardware e componentes
+
+### 🎯 Objetivos
+
+Desenvolver projetos, expandir meus conhecimentos em programação e conquistar oportunidades profissionais na área de Tecnologia da Informação.
+
+---
+
+### 📊 GitHub
+
+Sempre aprendendo, experimentando e evoluindo através da tecnologia.
+
+**"Great things are built one line of code at a time."**
